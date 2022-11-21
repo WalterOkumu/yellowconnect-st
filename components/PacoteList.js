@@ -25,8 +25,13 @@ export default function PacoteList() {
     return(
         <>
         <section className="mt-32 flex flex-col justify-center items-center mx-auto md:w-1/2 w-full">
+<<<<<<< HEAD
             <h1 className="px-5 md:px-0 text-5xl font-bold md:inline-block rounded-md text-[#070707] text-center">Aposte cada vez mais no digital </h1>
                 <h2 className="mt-5 mb-4 px-10 md:px-0 text-center md:w-[27rem] text-3xl font-light italic">
+=======
+            <h1 className="px-7 md:px-0 text-5xl font-bold md:inline-block p-2 rounded-md text-[#070707] text-center">Aposte cada vez mais no digital </h1>
+                <h2 className="mt-5 mb-4 px-16 md:px-0 text-center md:w-[27rem] text-3xl font-light italic">
+>>>>>>> 2a47377f9b0196e7d80d035d224037692f239fd1
                     <span className="font-bold">Divulgue seu negócio no print e no digital! </span>
                         Com o pacote Yellow Connect</h2>
                 <div className="pt-5">
